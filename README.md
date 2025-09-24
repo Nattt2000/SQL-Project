@@ -32,6 +32,8 @@ Tuto query tedy exportuju do Pythonu, v Pandas vytvořím pivotku, v Matplotlib 
 Dále použiju regresní model pro zjištění koeficientu sklonu = slope.  
 V Pythonu potom vypíšu odvětví s min(slope) tj. nejpomaleji rostoucí a max(slope) tj. nejrychleji rostoucí a přehled všech odvětví a jejich slope.
 
+**Poznámka:** Tato otázka by šla řešit i postupem, který jsem aplikovala v otázce 3.
+
 ## Otázka 2: Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?
 
 **Odpověď:**  
@@ -103,10 +105,9 @@ Pokud ale máme více pozorování, tvrzení z nich nelze potvrdit, pouze vyvrá
 - 2009: HDP kleslo o 5 %, ceny potravin klesly o 6 %, ale mzdy vzrostly o 6 %.  
 - 2017: HDP vzrostlo o 5 %, ceny potravin vzrostly o 11 %, ale mzdy klesly o 2 %.  
 
-Exaktně by se tato otázka řešila lag korelací a regresní analýzou.
-
 **Popis:**  
 Funguje stejně jako query pro otázku 4, jen zde navíc provádíme ty stejné vzorce ještě pro HDP.  
 Z tohoto výstupu v Pythonu potom odpovím na otázku.
 
-**Poznámka:** Tato otázka by šla řešit i postupem, který jsem aplikovala v otázce 3.
+**Poznámka:** Exaktně by se tato otázka řešila lag korelací a regresní analýzou.
+
