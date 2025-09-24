@@ -100,9 +100,10 @@ Finální query provádí výpočet procent z hodnot rozdílů. Vypíše všechn
 
 **Rozšířená odpověď:**  
 U některých roků se může zdát, že jsou výsledky opravdu provázané, např. v roce 2007:  
-- HDP vzrostlo o 6 %, ceny potravin vzrostly o 4 % a mzdy vzrostly o 6 %.  
+- 2007: HDP vzrostlo o 6 %, ceny potravin vzrostly o 4 % a mzdy vzrostly o 6 %.  
 
-Pokud ale máme více pozorování, tvrzení z nich nelze potvrdit, pouze vyvrátit protipříkladem:  
+Pokud ale máme více pozorování, tvrzení z nich nelze potvrdit, pouze vyvrátit protipříkladem.
+Protipříklad k tvrzení: "Když HDP roste, ceny potravin i mzdy také rostou."
 - 2009: HDP kleslo o 5 %, ceny potravin klesly o 6 %, ale mzdy vzrostly o 6 %.  
 - 2017: HDP vzrostlo o 5 %, ceny potravin vzrostly o 11 %, ale mzdy klesly o 2 %.  
 
