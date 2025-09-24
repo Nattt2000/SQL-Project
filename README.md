@@ -31,6 +31,7 @@ To vede na vytvoření pivotky. Popis řádků: `industry_branch_name`, popis sl
 Tuto query tedy exportuju do Pythonu, v Pandas vytvořím pivotku, v Matplotlib grafy pro každé odvětví.  
 Dále použiju regresní model pro zjištění koeficientu sklonu = slope.  
 V Pythonu potom vypíšu odvětví s min(slope) tj. nejpomaleji rostoucí a max(slope) tj. nejrychleji rostoucí a přehled všech odvětví a jejich slope.
+Z tohoto výstupu v Pythonu potom odpovím na otázku.
 
 **Poznámka:** Tato otázka by šla řešit i postupem, který jsem aplikovala v otázce 3.
 
