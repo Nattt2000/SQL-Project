@@ -12,9 +12,10 @@
 		--- 2009: HDP kleslo o 5 %, ceny potravin klesly o 6 %, ale mzdy vzrostly o 6 %.
 		--- 2017: HDP vzrostlo o 5 %, ceny potravin vzrostly o 11 %, ale mzdy klesly o 2 %.
 		--- Na protipříkladu tedy můžeme pozorovat, že se za zkoumané období alespoň jednou stala situace: HDP vzrostlo, mzdy klesly (2017), HDP kleslo, mzdy vzrostly (2009).
-	--- Exaktně by se tato otázka řešila lag korelací a regresní analýzou.
 
 --- Popis: Funguje stejně jako query pro otázku 4, jen zde navíc provádíme ty stejné vzorce ještě pro gdp.
+
+--- Poznámka: Exaktně by se tato otázka řešila lag korelací a regresní analýzou.
 
 WITH
 previous AS (
